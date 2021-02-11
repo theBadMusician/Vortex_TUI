@@ -1,0 +1,3 @@
+world_idx=2
+args_idx=0 1 2 
+fsm_idx=0
